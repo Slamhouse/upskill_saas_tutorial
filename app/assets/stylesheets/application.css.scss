@@ -16,6 +16,8 @@
 
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import 'font-awesome-sprockets';
+@import 'font-awesome';
 
 // Typography Styles
 h1, h2, h3 {
@@ -30,7 +32,7 @@ h1, h2, h3 {
   background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-// Navy Styles 
+// Nav Styles 
 .navbar {
   border: none;
 }
